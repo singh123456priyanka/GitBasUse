@@ -9,7 +9,7 @@ import org.sikuli.script.Pattern;
 import org.sikuli.script.Screen;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-
+//pull back @byPriyanka
 public class GoogleSikulyEx {
 
 	public static void main(String[] args) throws Throwable {
